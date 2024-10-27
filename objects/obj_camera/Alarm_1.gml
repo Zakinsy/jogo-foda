@@ -1,0 +1,1 @@
+shake_legnth = 0;
